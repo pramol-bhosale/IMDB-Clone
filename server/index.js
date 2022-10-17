@@ -6,7 +6,7 @@ const bodyParser=require("body-parser")
 const db=mysql.createPool({
 host:"localhost",
 user:"root",
-password:"Bhosale@7714",
+password:"*********",
 database:"IMDBDatabase"
 });
 
